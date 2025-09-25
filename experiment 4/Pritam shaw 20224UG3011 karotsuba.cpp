@@ -1,7 +1,7 @@
 //Name: Pritam Shaw
 //Roll : 2024UG3011  sec:B
 //subject: Algorithm lab(CS-2107/CD-2107)
-//Experiment-3 Task-4-Implementation of Karotsuba Algoritham
+//Experiment-3 Task-4 Implementation of Karotsuba Algoritham
 
 
 #include<bits/stdc++.h>
